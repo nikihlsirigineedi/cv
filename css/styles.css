@@ -1,0 +1,96 @@
+#title{
+  background-color: #ffbbb4;
+
+}
+h1
+{
+
+  font-family: 'Montez', cursive;
+  font-size: 4rem;
+  line-height: 1.5;
+
+
+}
+.container{
+  padding: 2% 5% 2% 6%;
+}
+.navbar-brand{
+  font-size: 2rem;;
+}
+.navbar{
+
+  padding:0 0  3rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.btn{
+margin: 5% 3% 5% 0;
+}
+/* .dogg1{
+  transform:rotate(25deg);
+} */
+#features{
+  padding : 5% 10% ;
+}
+.feat{
+  text-align: center;
+  padding: 5%;
+
+}
+p
+{
+  color: #8f8f8f;
+}
+.icon{
+  color:  #ffbbb4;
+  padding-bottom: 1rem;
+}
+.icon:hover{
+  color: #f35588;
+}
+#testimonials{
+  background-color: #ffbbb4
+
+;
+
+    text-align: center;
+}
+h2
+{
+  font-size: 2rem;
+font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-weight: 20%;
+}
+.dogg2{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+    background-color: #ffbbb4;
+    text-align:center;
+    padding-bottom: 3%;
+}
+.logo{
+  width: 15%;
+  padding: 20px 20px 50px 20px;
+}
+.carousel-item{
+  padding : 5% 25% ;
+}
+#pricing{
+padding: 100px;
+  text-align: center;
+}
+.pricing-column{
+padding: 3% 2%;
+}
+#cta{
+  background-color: #ffbbb4;
+}
+#footer{
+    background-color: #ffbbb4;
+padding-bottom: 0px;
+}
